@@ -9,11 +9,23 @@
   <h1>Hypertext Markup Language (HTML)</h1>
 
   <p>
-    HTML is the standard
-    <a href="https://en.wikipedia.org/wiki/Markup_language" target="_blank" rel="noopener noreferrer">
-      markup language
+    Hypertext Markup Language (HTML) is the standard 
+    <a href=“https://en.wikipedia.org/wiki/Markup_language”> markup language 
+    </a> 
+    for documents designed to be displayed in a 
+    <a href=“https://en.wikipedia.org/wiki/Web_browser”> web browser
+    </a>. 
+    It defines the content and structure of 
+    <a href=“https://en.wikipedia.org/wiki/Web_content”> web content.
+    </a>. 
+    It is often assisted by technologies such as 
+    <a href=“https://en.wikipedia.org/wiki/CSS”> Cascading Style Sheets (CSS)
+    </a> 
+    and 
+    <a href=“https://en.wikipedia.org/wiki/Scripting_language”>scripting language 
     </a>
-    for documents designed to be displayed in web browsers.
+    such as <a href=“https://en.wikipedia.org/wiki/JavaScript”> JavaScript. 
+    </a>  
   </p>
 
   <p>
