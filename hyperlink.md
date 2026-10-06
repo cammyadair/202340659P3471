@@ -9,7 +9,7 @@
 
   <p>
     Hypertext Markup Language (HTML) is the standard 
-    <a href="[https://en.wikipedia.org/wiki/Web_browser](https://en.wikipedia.org/wiki/Markup_language)" target="_blank" rel="noopener noreferrer">
+    <a href="https://en.wikipedia.org/wiki/Markup_language" target="_blank" rel="noopener noreferrer">
       markup language 
     </a> 
     for documents designed to be displayed in a 
